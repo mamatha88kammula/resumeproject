@@ -1,0 +1,54 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"Mamatha",
+		"phoneno":"+91-8675342521",
+		"email":"kammula.mamatha@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to pursue a challenging career."
+	},
+	"education":[
+		{
+		"qualification":"B.tech",
+		"institute":"vignan's nirula college",
+		"year":"2016-2020",
+		"percentage":"90%"
+	},
+	{
+		"qualification":"intermediate",
+		"institute":"pbn college",
+		"year":"2014-2016",
+		"percentage":"95%"
+	},
+	{
+		"qualification":"ssc",
+		"institute":"don bosco",
+		"year":"2014",
+		"percentage":"93%"
+	}
+	],
+	"skills":[
+		{
+		"title":"programming languages",
+		"info":["c","c++","java","python","ruby"]
+	},
+	{
+		"title":"database",
+		"info":["oracle","sql","mysql"]
+	},
+	{
+		"title":"operating system",
+		"info":["windows","linux","mac","ubuntu"]
+	}
+	],
+	"achievements":[
+		{
+		"info":"iam second topper in my semister exams"
+	},
+	{
+		"info":"i got second prize in gk quiz."
+	}
+]
+}
